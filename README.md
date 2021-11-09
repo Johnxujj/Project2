@@ -1,9 +1,9 @@
-# Phase 1 Project
-##  Suggestion for Entering Movie Industry
+# Phase 2 Project
+##  Real estate market analyze at King County with Regression modeling
 Authors: Jiajie Xu
 
 Data
-Data are getting from Imdb, Rotten Tomatoes and TheMovieDB
+Data are getting from online
 
 ### Business Problem
 
