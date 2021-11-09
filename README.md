@@ -9,8 +9,8 @@ Data analysis for King County's house sale record, using 2014-2015 house sales d
 
 ### The Data
 
-kc_house_data.csv
-column_names.md
+* kc_house_data.csv
+* column_names.md
 
 
 ## Methods
