@@ -1,9 +1,7 @@
 # Phase 2 Project
 ##  Real estate market analyze at King County with Regression modeling
-Authors: Jiajie Xu
 
-Data
-Data are getting from online
+Authors: Jiajie Xu
 
 ### Business Problem
 
